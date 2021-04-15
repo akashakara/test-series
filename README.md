@@ -1,4 +1,4 @@
-# test-series
+# Test-series
 
 To get started,Clone this project and hit
 ## npm install 
