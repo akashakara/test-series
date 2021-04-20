@@ -1,7 +1,9 @@
 # Test-series
 
 To get started,Clone this project and hit
-## npm install 
+### npm install 
 in the project directory.
-## npm start
-to see if the project is working or not.
+
+### npm start
+ to start the project in your localhost server.
+
